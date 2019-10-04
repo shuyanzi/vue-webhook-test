@@ -1,5 +1,5 @@
 #!/bin/bash
-WORK_PATH = '/usr/projects/vue-front-test'
+WORK_PATH='/usr/projects/vue-front-test'
 cd $WORK_PATH
 echo 'clean old code'
 git reset --hard origin/master
